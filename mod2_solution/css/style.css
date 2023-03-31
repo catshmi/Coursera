@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: sans-serif;
+}
+.section {
+	background-color: #D4CDF4;
+	position: relative;
+	box-sizing: border-box;
+}
+
+h2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
